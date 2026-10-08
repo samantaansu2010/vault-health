@@ -1,0 +1,31 @@
+# Container.member entries for Obsidian API members reached through `app.*` (not visible as imports).
+# One per line. Used by check-api-since.mjs. Add a line whenever src/ starts using a new member.
+App.vault
+App.metadataCache
+App.workspace
+Vault.getMarkdownFiles
+Vault.getFiles
+Vault.getAbstractFileByPath
+Vault.cachedRead
+Vault.on
+MetadataCache.resolvedLinks
+MetadataCache.unresolvedLinks
+MetadataCache.getFileCache
+MetadataCache.getFirstLinkpathDest
+MetadataCache.on
+CachedMetadata.embeds
+CachedMetadata.frontmatter
+CachedMetadata.frontmatterPosition
+Workspace.getLeaf
+Workspace.getLeavesOfType
+Workspace.revealLeaf
+WorkspaceLeaf.openFile
+WorkspaceLeaf.setViewState
+TFile.stat
+TFile.basename
+TFile.extension
+Plugin.loadData
+Plugin.saveData
+Plugin.registerView
+Plugin.addRibbonIcon
+Component.registerEvent

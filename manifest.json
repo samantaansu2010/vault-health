@@ -1,0 +1,9 @@
+{
+  "id": "vault-health",
+  "name": "Vault Health",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "A local-first diagnostic for your vault: research integrity, source provenance, knowledge structure, and art & media health. Read-only; no AI, no network.",
+  "author": "Vault Health contributors",
+  "isDesktopOnly": false
+}
